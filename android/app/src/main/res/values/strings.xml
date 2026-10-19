@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">marcetplace</string>
+    <string name="title_activity_main">marcetplace</string>
+    <string name="package_name">com.marcetplace.app</string>
+    <string name="custom_url_scheme">com.marcetplace.app</string>
+</resources>
